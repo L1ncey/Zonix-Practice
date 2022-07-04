@@ -1,5 +1,3 @@
-# Zonix-Practice
-
 ## What is Zonix-Practice ?
 Zonix-Practice is a plugin belongs to Zonix Network.                        
 It's a plugin which works with Spigot 1.8 ONLY.                          
